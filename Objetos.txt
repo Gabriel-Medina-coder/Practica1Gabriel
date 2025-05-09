@@ -1,3 +1,4 @@
 1.-Computadora
 2.-Teclado
 3.-Mouse
+4.-HDD
